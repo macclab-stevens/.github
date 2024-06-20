@@ -1,12 +1,4 @@
-## Hi there 👋
+Welcome to the Mobile AI Cybersecurity Computing (MACC) Laboratory Github Page!
+Based in Hoboken, New Jersey, the MACC Research Laboratory is operated by Dr. Ying Wang in the School of Systems and Enterprises (SSE) at Stevens Institute of Technology. Our extensive team consists of Ph.D., master's, and undergraduate students leading various active projects, ranging from cybersecurity to telemedicine.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+https://sites.google.com/stevens.edu/macclab/
